@@ -1,6 +1,6 @@
 # Maverik-Capstone-Project
 
-# Summary of business problem and project objective
+# Summary of Business Problem and Project Objective
 The Maverik capstone initiative sought to tackle the task of expanding the business reach by around 30 additional stores in the forthcoming year.The key goals were to forecast the daily sales of newly established stores, refine forecast precision for financial planning, and elevate the accuracy of Initial Return on Investment (ROI) computations.
 
 # Group's solution to the business problem
